@@ -8,3 +8,13 @@
   width: 100%;
   height: 500px;
 }
+.bottom {
+  text-align: center;
+  background-position: bottom;
+}
+#click {
+  position: absolute;
+}
+.aboutUs {
+  text-align: center;
+}
