@@ -36,6 +36,9 @@
 .card {
   display: inline-grid;
 }
+.hideMe{
+  display: none;
+}
 
 #size {
   width: 500px;
